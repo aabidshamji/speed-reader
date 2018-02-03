@@ -42,25 +42,5 @@ public class WordGenerator {
 		return this.sentenceCount;
 	}
 
-	public static void main (String[] args) throws IOException, InterruptedException {
-		/*WordGenerator test = new WordGenerator("test.txt");
-		while (test.hasNext()) {
-			System.out.println(test.next());
-			System.out.println(test.getWordCount());
-			System.out.println(test.getSentenceCount());
-		}*/
-		
-		DrawingPanel panel = new DrawingPanel(400, 300);
-	    Graphics g = panel.getGraphics();
-	    Font f = new Font("Courier", Font.BOLD, 46);
-	    g.setFont(f);
-	    g.drawString("Hello World!", 100, 100);
-	    
-	    WordGenerator test = new WordGenerator("test.txt");
-	        while(test.hasNext()) {
-	            System.out.println(test.next());
-	            Thread.sleep(1000);
-	        
-	    }
-	}
+	
 }
