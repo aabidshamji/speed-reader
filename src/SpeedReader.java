@@ -5,14 +5,31 @@ import java.awt.Graphics;
 import java.io.File;
 import java.io.IOException;
 
+
 public class SpeedReader {
+	
+	/*
+	 * Renders a display panel of size width and height and displays words from filename at the speed of wpm in fsize font size
+	 * 
+	 * @param filename - a file name that exists 
+	 * @param width - a positive integer 
+	 * @param height - a positive integer
+	 * @param fsize - a positive integer
+	 * @param wpm - a positive integer
+	 * 
+	 * @return void - called for side effects
+	 * 
+	 * @throws IOException
+	 * @throws InterruptedException
+	 */
+	
 	public static void SpeedReader1 (String filename, int width, int height, int fsize, int wpm) throws IOException, InterruptedException {
 
 		DrawingPanel panel = new DrawingPanel(width, height);
 		Graphics g = panel.getGraphics();
 		Font f = new Font("Courier", Font.BOLD, fsize);
 		g.setFont(f);
-		g.clearRect(0, 0, 400, 300);
+		g.clearRect(0, 0, width, height);
 		g.setColor(Color.WHITE);
 
 		WordGenerator test = new WordGenerator(filename);
@@ -44,6 +61,10 @@ public class SpeedReader {
 					} 
 				}
 			} 
+			
+			/*
+			 * checks the length of the character array that represents the word and prints the chars with appropriate coloring
+			 */
 
 			else if (sLen <= 5) {
 				for (int i = 0; i < sLen; i++) {
@@ -108,8 +129,7 @@ public class SpeedReader {
 					} 
 				}
 			}
-
-			//g.drawString(curr, cWidth, cLen);	      
+      
 			Thread.sleep( (long) (((double) 60 / (double) wpm) * 1000.00));          
 			g.clearRect(0, 0, width, height);
 		}
@@ -122,7 +142,14 @@ public class SpeedReader {
 	}
 
 	
-	
+	/*
+	 * checks if a given int is positive 
+	 * 
+	 * @param x - an int 
+	 * 
+	 * @return true if x is positive, false otherwise
+	 * 
+	 */
 	public static boolean check (int x) {
 		if (x <= 0) { return false; }
 		else { return true; }
