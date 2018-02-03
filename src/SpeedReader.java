@@ -158,7 +158,6 @@ public class SpeedReader {
 	
 	
 	public static void main(String[] args) throws IOException, InterruptedException {
-		System.out.println(args.length);
 		
 		if (args.length != 5) {	
 			System.out.println("Usage: SpeedReader <filename> <width> <height> <font size> <wpm>");
