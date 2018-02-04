@@ -15,15 +15,18 @@ The source of excerpts:
   http://www.englishforeveryone.org/PDFs/9_Summer_Rain_Free_Sample.pdf
   
   Test 1
-  http://www.jxenglish.com/Article/reading/1014.html
+  http://www.sparknotes.com/shakespeare/shakesonnets/section1/
   
   Test 2
-  https://en.wikipedia.org/wiki/Cat
+  http://www.jxenglish.com/Article/reading/1014.html
   
   Test 3
+  https://en.wikipedia.org/wiki/Cat
+  
+  Test 4
   https://www.theatlantic.com/science/archive/2016/06/the-origin-of-dogs/484976/
  
- Test 4
+  Test 5
   https://www.nationalgeographic.com/animals/fish/
   
 Questions for four texts with associated quizzes:
