@@ -135,7 +135,17 @@ Questions for four texts with associated quizzes:
     
  The names and Grinnell emails of participants:
  
+ 1. Adobea williams - [williams5]
+ 2. Igacio Mateo - [mateocar]
+ 3. Yang Luo - [luoyang]
+ 
  The results of quizes:
  
- Analysis of results:
+             Person    1         2         3       Average
+ Read by themselves    2         4         5        3.67
+ 250wpm                5         5         5        5
+ 350wpm                3         4         3        3.33
+ 500wpm                2         3         1        2
  
+ Analysis of results:
+SpeedReader helps people to improve comprehension of the text, but only when it is slow enough. The best performing quiz was the one at 250wpm. As the speed of the words increases, the comprehension of the text decreases.The worst performing quiz is the one at 500wpm because it is hard for participants to adequately read that speed.Thus, the Speed Reader is effective to improve comprehension if we use it at the correct speed.  
