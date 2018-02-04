@@ -154,6 +154,7 @@ Questions for four texts with associated quizzes:
  The results of quizes:
  
              Person   | 1        | 2        | 3       | Average
+    Read by themselves| 2        | 4        | 5       | 3.67
  ---------------------|----------|----------|---------|---------
  Read by themselves   | 2        | 4        | 5        | 3.67
  250wpm               | 5        | 5        | 5        | 5
