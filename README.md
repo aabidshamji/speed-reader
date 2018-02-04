@@ -19,6 +19,7 @@ The source of excerpts:
   https://www.nationalgeographic.com/animals/fish/
   
 Questions for four texts with associated quizzes:
+  
   Questions for Reading 1:
     1. Stuntmen are those who ______.
     A. often dress up as actors
@@ -48,6 +49,7 @@ Questions for four texts with associated quizzes:
     D. The cliff is too high.
     
   Questions for Reading 2:
+    
     1.How do you understand Point 1 —The telephone creates the need to communicate,6…’？
     A. People don’t communicate without telephone.
     B. People communicate because of the creating of the telephone.
@@ -75,6 +77,7 @@ Questions for four texts with associated quizzes:
     D. Advantage of Phones
     
    Questions for Reading 3:
+    
     1.Children are becoming more inactive in study because .
     A. they watch TV too often 
     B. they have done too much homework
@@ -103,7 +106,8 @@ Questions for four texts with associated quizzes:
     A. Passive    B. Active    C. Cheerful    Honest
     
    Questions for Reading 4:
-    1) The passage makes use of language that is
+   
+   1) The passage makes use of language that is
     A. metaphorical 
     B. rhetorical 
     C. formal
@@ -142,10 +146,15 @@ Questions for four texts with associated quizzes:
  The results of quizes:
  
              Person    1         2         3       Average
+ 
  Read by themselves    2         4         5        3.67
+ 
  250wpm                5         5         5        5
+ 
  350wpm                3         4         3        3.33
+ 
  500wpm                2         3         1        2
  
  Analysis of results:
+
 SpeedReader helps people to improve comprehension of the text, but only when it is slow enough. The best performing quiz was the one at 250wpm. As the speed of the words increases, the comprehension of the text decreases.The worst performing quiz is the one at 500wpm because it is hard for participants to adequately read that speed.Thus, the Speed Reader is effective to improve comprehension if we use it at the correct speed.  
