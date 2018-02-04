@@ -155,10 +155,10 @@ Questions for four texts with associated quizzes:
  
              Person   | 1        | 2        | 3       | Average
     Read by themselves| 2        | 4        | 5       | 3.67
-     250wpm           | 5        | 5        | 5        | 5
- 350wpm               | 3        | 4        | 3        | 3.33
- 500wpm               | 2        | 3        | 1        | 2
- ---------------------|----------|----------|---------|---------
+     250wpm           | 5        | 5        | 5       | 5
+     350wpm           | 3        | 4        | 3       | 3.33
+     500wpm           | 2        | 3        | 1       | 2
+
 
  
  Analysis of results:
